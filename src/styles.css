@@ -7,20 +7,6 @@ main {
   position: absolute;
   min-width: 100%;
   min-height: 100%;
-  color: rgb(132, 0, 255);
-  background: linear-gradient(183deg, #00c0ff, #b861ff, #dfdfdf);
-  background-size: 180% 180%;
-  animation: gradient-animation 24s ease infinite;
-}
-
-@keyframes gradient-animation {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
+  background: linear-gradient(300deg, #00aaff, #000000);
+  background-size: 120% 120%;
 }
