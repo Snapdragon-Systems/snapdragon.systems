@@ -15,7 +15,5 @@ h2 {
   font-family: MoreSugar;
   font-weight: 400;
   border-radius: 15px;
-  background: linear-gradient(183deg, #00c0ff, #b861ff, #dfdfdf);
-  background-size: 180% 180%;
-  animation: gradient-animation 24s ease infinite;
+  background-color: rgba(0, 57, 107, 0.151);
 }

@@ -7,7 +7,7 @@ main {
   position: absolute;
   min-width: 100%;
   min-height: 100%;
-  color: rgb(190, 190, 190);
+  color: rgb(132, 0, 255);
   background: linear-gradient(183deg, #00c0ff, #b861ff, #dfdfdf);
   background-size: 180% 180%;
   animation: gradient-animation 24s ease infinite;
