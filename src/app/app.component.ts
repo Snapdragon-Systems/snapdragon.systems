@@ -10,5 +10,5 @@ import { Component, Inject } from '@angular/core';
 export class AppComponent {
   @Inject(DOCUMENT) document: Document;
   constructor() {}
-  title = "Snapdragon Website";
+  title = 'Snapdragon Website';
 }
